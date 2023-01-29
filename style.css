@@ -1,0 +1,32 @@
+.wrapper{
+    max-width: 500px;
+   margin: auto;
+   border: 1px solid black;
+   margin-top: 300px;
+   text-align: center;
+   font-family: sans-serif;
+   box-shadow: 3px 3px #595858;
+  
+  }
+  .wrapper-nav{
+      background-color: #afe4bd8c;
+      color: black;
+      border: 1px solid white;
+      
+  }
+  .wrapper-section{
+    border: 1px solid white;
+    background-color: #cdebd259;
+  
+  }
+  .wrapper-footer{
+    background-color: #bcbcd969;
+    color: #410e0e;
+}
+@media screen and (max-width: 600px){
+    .wrapper{
+        max-width: 500px;
+       
+      
+      }
+}
